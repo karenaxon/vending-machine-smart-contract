@@ -43,7 +43,7 @@ Smart contract project to learn how to test & deploy a smart contract to Ethereu
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) January 2022 - Karen Axon
+Copyright (c) March 2022 - Karen Axon
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
